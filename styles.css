@@ -1,0 +1,11 @@
+body{
+   color: hsl(0, 68%, 36%); 
+   /* background-color: aqua; */
+background: hsl(184, 77%, 38%);
+}
+
+h1{
+   color: aqua;
+   font-family: sans-serif;
+   
+}
